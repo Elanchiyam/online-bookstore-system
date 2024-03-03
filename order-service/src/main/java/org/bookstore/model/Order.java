@@ -24,5 +24,5 @@ public class Order {
     private String status;
     private  String deliveryAddress;
     private String paymentMethod;
-    private List<Book> bookId;
+    private List<Book> bookList;
 }
